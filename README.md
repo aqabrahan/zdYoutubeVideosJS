@@ -1,9 +1,7 @@
 # zdYoutubeVideosJS
 Get youtube's videos from a channel
 
-https://www.googleapis.com/youtube/v3/search?part=id,snippet&maxResults=2&channelId=UChA5PZa8HiDwETm1BMEv-7Q
-	&type=video&fields=items,nextPageToken,prevPageToken,tokenPagination
-	&key=AIzaSyBCHP3LRGYOKdhobFISD1Qp_GN6b1cSK3c
+https://www.googleapis.com/youtube/v3/search?part=id,snippet&maxResults=2&channelId=UChA5PZa8HiDwETm1BMEv-7Q&type=video&fields=items,nextPageToken,prevPageToken,tokenPagination&key=AIzaSyBCHP3LRGYOKdhobFISD1Qp_GN6b1cSK3c
 
 &maxResults=2
 &pageToken=
