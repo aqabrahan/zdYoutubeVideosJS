@@ -1,0 +1,23 @@
+{
+  "name": "youtube",
+  "homepage": "https://github.com/aqabrahan/zdYoutubeVideosJS",
+  "authors": [
+    "Abrahan Apaza <aqabrahan@gmail.com>"
+  ],
+  "description": "get videos from youtube channel",
+  "main": "index.hml",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "youtube"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
