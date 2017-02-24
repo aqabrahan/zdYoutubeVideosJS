@@ -1,1 +1,3 @@
-let zdyoutube = import('zdyoutube')
+let zdyoutube = require('./zdyoutube');
+
+console.log(zdyoutube.getVideos());
